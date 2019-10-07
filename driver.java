@@ -1,6 +1,3 @@
-//Daniel Sanandaj
-//Youngjin Seo
-//Tony Tong
 
 import java.io.*;
 import java.util.*;

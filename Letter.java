@@ -1,6 +1,3 @@
-//Daniel Sanandaj
-//Youngjin Seo
-//Tony Tong
 
 public class Letter {
 	char letter;

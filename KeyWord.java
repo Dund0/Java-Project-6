@@ -1,7 +1,3 @@
-//Daniel Sanandaj
-//Youngjin Seo
-//Tony Tong
-
 
 public class KeyWord {
 	String word;
